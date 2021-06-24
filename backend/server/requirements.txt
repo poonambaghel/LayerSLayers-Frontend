@@ -1,0 +1,9 @@
+django
+djangorestframework
+markdown==3.3 
+django-filter==2.4.0
+django_cors_headers
+knox
+djangorestframework-simplejwt
+mysqlclient
+pymysql
